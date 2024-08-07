@@ -2,7 +2,7 @@
 
 ## Description
 
-This weather application allows users to get the current weather conditions for any location they enter. It displays the temperature, weather description, and the temperature range for the day.
+This weather application allows users to get the weather conditions for any location. It displays the temperature, weather description, and the temperature range for the day.
 
 ## Features
 
